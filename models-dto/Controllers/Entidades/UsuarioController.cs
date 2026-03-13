@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using models_dto.ViewModel.EntidadesPessoasViewModel;
 
 namespace models_dto.Controllers.Entidades
 {
@@ -6,7 +7,8 @@ namespace models_dto.Controllers.Entidades
     {
         public IActionResult Index()
         {
-            return View();
+            UsuarioViewModel userView = new UsuarioViewModel();
+            return View(userView);
         }
     }
 }

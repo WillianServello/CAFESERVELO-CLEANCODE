@@ -1,5 +1,5 @@
-wwwroot\css\Layout\sidebar.css
 wwwroot\css\site.css
+wwwroot\css\Layout\sidebar.css
 wwwroot\favicon.ico
 wwwroot\js\Layout\sidebar.js
 wwwroot\js\site.js

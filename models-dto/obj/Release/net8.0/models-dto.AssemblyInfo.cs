@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("models-dto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a45b4f5d4de39674608ae9edbd3374e5d0827286")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2732a2f03f28130dff54a50a6137a0f913b4cfcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("models-dto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("models-dto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
