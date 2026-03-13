@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\ViewModel\" />
+    <Folder Include="wwwroot\uploads\usuarios\" />
   </ItemGroup>
 
 </Project>

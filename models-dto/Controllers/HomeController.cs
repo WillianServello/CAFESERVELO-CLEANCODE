@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using models_dto.Models;
+using models_dto.ViewModel.ErrorViewModel;
 
 namespace models_dto.Controllers
 {
@@ -15,12 +15,12 @@ namespace models_dto.Controllers
 
         public IActionResult Index()
         {
-            return View("~/Views/TelasView/Home/Index.cshtml");
+            return View();
         }
 
         public IActionResult Privacy()
         {
-            return View("~/Views/TelasView/Home/Index.cshtml");
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
