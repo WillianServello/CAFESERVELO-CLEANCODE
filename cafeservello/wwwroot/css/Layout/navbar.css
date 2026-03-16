@@ -1,0 +1,20 @@
+﻿/* POSICAO DA NAVBAR E CONFIG PRA ELA NAO SAIR DO TOPO */
+
+.navbarColor {
+    background: #161b22 !important;
+    transition: background 0.5s ease;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 5;
+}
+
+/* AQUI E UM HOVER SIMPLES */
+
+.navbarTitulo {
+    transition: 0.5s color ease;
+}
+    .navbarTitulo:hover {
+        color: #d1d5da !important
+    }

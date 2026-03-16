@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <partial name="Layout/_HeadLinks" />
+</head>
+
+    <body>
+    
+        <partial name="Layout/_Navbar" />
+            
+            <div>
+                <partial name="Layout/_Sidebar" />
+                <main role="main">
+                    @RenderBody()
+                </main>
+            </div>
+        
+        <partial name="Layout/_Scripts"/>
+
+        @await RenderSectionAsync("Scripts", required: false)
+
+    </body>
+
+</html>
