@@ -1,21 +1,21 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <partial name="Layout/_HeadLinks" />
+    <partial name="Partials/_HeadLinks" />
 </head>
 
     <body>
     
-        <partial name="Layout/_Navbar" />
+        <partial name="Partials/_Navbar" />
             
             <div>
-                <partial name="Layout/_Sidebar" />
+                <partial name="Partials/_Sidebar" />
                 <main role="main">
                     @RenderBody()
                 </main>
             </div>
-        
-        <partial name="Layout/_Scripts"/>
+
+        <partial name="Partials/_Scripts" />
 
         @await RenderSectionAsync("Scripts", required: false)
 

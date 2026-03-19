@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\js\\layout\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\js\\layout\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\css\\layout\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\css\\layout\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\views\\shared\\layout\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\views\\shared\\layout\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\anota\u00E7\u00E3oaula\\qa.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\anota\u00E7\u00E3oaula\\qa.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sidebar.js",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "RelativeDocumentMoniker": "cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "RelativeToolTip": "cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-19T01:10:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sidebar.css",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "RelativeDocumentMoniker": "cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "RelativeToolTip": "cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwLQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-19T00:56:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml*",
+              "RelativeToolTip": "cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T00:24:40.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Layout\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "cafeservello\\Views\\Shared\\Layout\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Layout\\_Layout.cshtml",
+              "RelativeToolTip": "cafeservello\\Views\\Shared\\Layout\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T00:22:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QA.txt",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Anota\u00E7\u00E3oAula\\QA.txt",
+              "RelativeDocumentMoniker": "cafeservello\\Anota\u00E7\u00E3oAula\\QA.txt",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Anota\u00E7\u00E3oAula\\QA.txt",
+              "RelativeToolTip": "cafeservello\\Anota\u00E7\u00E3oAula\\QA.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-19T00:21:38.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

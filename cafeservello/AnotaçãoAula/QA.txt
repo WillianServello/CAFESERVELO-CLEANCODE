@@ -1,0 +1,37 @@
+Fundamentos do Processo Ágil
+
+-> cliente reclamar do que pediu e falar que não era o que queria (mesmo sendo o que ele pediu).
+
+-> Manifesto Agil - não é uma metolodia unica e sim uma filosofia.
+	4 valores 
+		- Individuos e interações
+		- Software funcionando
+		- Colaboração com o cliente
+		- Responder a mundaças
+
+	Ciclos Curtos (Sprints)
+		- 1 a 4 semanas
+		- permitem ajustes rápidos
+
+	Entrega de valor incremental
+		- entrega um incremento funcional do produto
+	
+	Feedback
+		- ajuda na construção
+
+	Os três papéis do Scrum 
+
+	Product Owner(PO)
+		- representa cliente e o negócio
+		- define prioridades
+
+	Scrum Master
+		- facilitador do processor, remove problemas
+
+	Time de desenvolvimento
+		- desenvolver o que foi pedido
+
+		1° Spring Planning - o que será feito na sprint
+		2° Daily Scrum - alinhamento diario rapido - feito de pé
+		3° Sprint Review - demonstração do entre
+		4° Spring Retrospective - retrospectiva das spring - lavar roupa suja

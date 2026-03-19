@@ -1,0 +1,57 @@
+﻿<div class="sidebar fechada" id="sidebar">
+    <div class="conteinerSidebar">
+
+        <div class="botaoSidebar">
+            <button class="btnToggle"  onclick="toggleSidebar()">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+        </div>
+        
+
+        <a class="conteinerItens linkSidebar" 
+            asp-controller="Home"
+            asp-action="Index">
+
+            <i class="fa-solid fa-house-chimney iconeSidebar "></i>
+            <span 
+                class="fontPoppins"> 
+                Home
+            </span>
+          
+        </a>
+        
+        <div class="conteinerItens" onclick="SubmenuAtivo(this)">
+            <i class="fa-solid fa-gear iconeSidebar"></i>
+            <span class="fontPoppins">
+                Atividades
+            </span>
+            <i class="fa-solid fa-sort-down iconeSidebar" style="font-size: 10px;"></i>
+        </div>
+
+
+        <div class="submenu mt-1">
+            <p class="bordaSubmenu"/>
+            <a class="conteinerItens ms-1"
+               asp-controller="Usuario"
+               asp-action="Index">
+
+
+                <i class="fa-solid fa-user iconeSidebar"></i>
+                <span class="fontPoppins">
+                    Usuário
+                </span>
+            </a>
+
+        </div>
+        
+
+    </div>
+</div>
+
+
+           <script>
+               function SubmenuAtivo(setAtivo){
+                   const submenu = setAtivo.nextElementSibling;
+                   submenu.classList.toggle("ativo");
+               }
+           </script>

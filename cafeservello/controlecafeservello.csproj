@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="AnotaçãoAula\" />
     <Folder Include="wwwroot\uploads\usuarios\" />
   </ItemGroup>
 

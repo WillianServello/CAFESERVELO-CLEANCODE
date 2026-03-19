@@ -148,3 +148,34 @@ span.fontPoppins {
     transform: rotate(90deg);
 }
 /* --------------------------------- */
+
+/* SUBMENU FEITO COM SUCESSO */
+
+.submenu {
+    display: flex;
+    max-height: 0;
+    flex-direction: column;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-5px);
+    transition: max-height 0.5s ease, opacity 0.5s ease, transform 0.5s ease;
+    /* o opacity não tira o link do negocio! */
+    /* poreem o pointer-events resolve */
+}
+
+    .submenu.ativo {
+        max-height: none;
+        opacity: 1;
+        pointer-events: auto;
+        transform: translateY(0);
+    }
+
+.bordaSubmenu {
+    border-left: 2px solid rgba(255,255,255,0.30);
+    border-bottom-left-radius: 5px;
+}
+
+div.conteinerItens {
+    gap: 1px
+}
+/* --------------------------------- */
