@@ -1,9 +1,85 @@
 ﻿<header >
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-light border-bottom box-shadow navbarColor mb-3 p-3" ">
-        <div class="container-fluid" style="margin-left: 80px" >
-            <a class="navbar-brand text-white navbarTitulo" asp-area="" asp-controller="Home" asp-action="Index">KYBE</a>
-            <a class="nav-link text-white navbarTitulo" asp-area="" asp-controller="Home" asp-action="Privacy">Willian Servello</a>
+    <nav class="navbarColor">
+        <div style="display: flex; margin-left: 90px; align-items: center; ">
+            <div class="d-flex">
+                <a class=" text-white navbarTitulo" asp-area="" asp-controller="Home" asp-action="Index">KYBE</a>
+            </div>
+            
+            <div class="navConteiner">
+                <div class="navConteinerNome">
+                    <a class="nav-link text-white navNome" asp-area="" asp-controller="Home" asp-action="Privacy">Willian Servello</a>
+                    <i class="fa-solid fa-gear navIcone"></i>
+                </div>
+                 <p class="nav-link text-white navStatus">Funcionário</p>
+
+                @* <div class="navSubmenu">
+                    <div class="item-menu">
+                    </div>
+                </div> *@
+            </div>
         </div>
+        
+
     </nav>
 </header>
 
+<style>
+    .navbarColor {
+        background: #161b22 !important;
+        transition: background 0.5s ease;
+        position: fixed;
+        height: 60px;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 5;
+    }
+    .navSubmenu{
+        background: white !important;
+        display: inline-block;
+        width: 100px;
+        height: 300px;
+        position: relative;
+        margin-left: auto;
+        
+    }
+    i.navIcone{
+        color: white;
+        font-size: 15px;
+        transition: transform 0.5s ease, filter 0.2s ease;
+
+    }
+
+   i.navIcone:hover {
+        filter: drop-shadow(1px 1px 2px rgba(255, 255, 255, 0.2));
+        transform: translateY(-1px)
+    }
+    div.navConteinerNome{
+        align-items: center;
+        gap: 5px;
+        display: flex;
+    }
+    div.navConteiner{
+        margin-left: auto;
+        
+
+    }
+    a.navNome{
+        padding: 0;
+        transition: transform 0.5s ease, filter 0.2s ease;
+        flex-wrap: nowrap
+    }
+
+    a.navNome:hover{
+        filter: drop-shadow(1px 1px 2px rgba(255, 255, 255, 0.2));
+        transform: translateY(-1px)
+    }
+    p.navStatus{
+        margin-top: -5px;
+        padding: 0;
+        text-align: start;
+
+        font-size: 14px;
+        color: lightgrey !important;
+    }
+</style>

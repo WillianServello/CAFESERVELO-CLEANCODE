@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\css\\layout\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\css\\layout\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\anota\u00E7\u00E3oaula\\computa\u00E7\u00E3o aplicada.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\anota\u00E7\u00E3oaula\\computa\u00E7\u00E3o aplicada.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "navbar.css",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\navbar.css",
+              "RelativeDocumentMoniker": "cafeservello\\wwwroot\\css\\Layout\\navbar.css",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\navbar.css",
+              "RelativeToolTip": "cafeservello\\wwwroot\\css\\Layout\\navbar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-19T23:03:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeToolTip": "cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T22:16:03.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computa\u00E7\u00E3o Aplicada.txt",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Anota\u00E7\u00E3oAula\\Computa\u00E7\u00E3o Aplicada.txt",
+              "RelativeDocumentMoniker": "cafeservello\\Anota\u00E7\u00E3oAula\\Computa\u00E7\u00E3o Aplicada.txt",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Anota\u00E7\u00E3oAula\\Computa\u00E7\u00E3o Aplicada.txt",
+              "RelativeToolTip": "cafeservello\\Anota\u00E7\u00E3oAula\\Computa\u00E7\u00E3o Aplicada.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-19T22:14:32.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

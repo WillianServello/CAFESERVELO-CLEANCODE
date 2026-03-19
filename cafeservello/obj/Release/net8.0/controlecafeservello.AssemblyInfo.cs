@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("controlecafeservello")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b054a0418b78685b604e0633e79d28080569a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a45c55d5f35b8e98f28ba40e3686821fad0889cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("controlecafeservello")]
 [assembly: System.Reflection.AssemblyTitleAttribute("controlecafeservello")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
