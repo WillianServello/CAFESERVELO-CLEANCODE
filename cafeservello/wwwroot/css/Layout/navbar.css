@@ -1,12 +1,52 @@
-﻿/* POSICAO DA NAVBAR E CONFIG PRA ELA NAO SAIR DO TOPO */
-
-
-
-/* AQUI E UM HOVER SIMPLES */
-
-.navbarTitulo {
-    transition: 0.5s color ease;
+﻿.navbar {
+    display: flex;
+    background: black;
+    height: 80px;
+    background: #161b22;
+    padding: 0 100px;
 }
-    .navbarTitulo:hover {
-        color: #d1d5da !important
-    }
+.navContainer {
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navContainerLogo{
+    display: flex;
+}
+.navContainerNSI{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    
+      
+}
+a:hover {
+    color: white;
+    
+}
+
+
+.navTexto {
+    color: white;
+    text-decoration: none;
+}
+.navLogo {
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navNome {
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+}
+.navStatus {
+    font-size: 12px;
+    font-weight: 200;
+    font-style: normal;
+}
+
+
