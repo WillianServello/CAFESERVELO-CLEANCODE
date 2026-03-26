@@ -7,8 +7,9 @@
         public string Nome { get; private set; } = string.Empty;
         public DateTime DataCadastro { get; private set; } = DateTime.UtcNow;
         public DateTime DataUpdateCadastro { get; private set; } = DateTime.UtcNow;
-
+        public bool IsActive { get; private set; } = true;
         protected EntitidadeAbstract(){}
-
+        public void SetIsActive() => IsActive = true;
+        public void SetIsInactive() => IsActive = false;
     }
 }

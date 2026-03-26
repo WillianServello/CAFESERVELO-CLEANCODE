@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace cafeservello
 {
     public class Program
@@ -12,6 +14,9 @@ namespace cafeservello
                  {
                      options.ViewLocationFormats.Add("/Views/Pages/{1}/{0}.cshtml");
                  });
+
+            builder.Services.AddDbContext<BancoContext>(options =>
+                options.UseMySQL(builder.Configuration.GetConnectionString("Database")!));
 
             var app = builder.Build();
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\css\\layout\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\css\\layout\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
-              "RelativeDocumentMoniker": "cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
-              "RelativeToolTip": "cafeservello\\Views\\Shared\\Partials\\_Navbar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-20T00:21:26.476Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Program.cs",
+              "RelativeDocumentMoniker": "cafeservello\\Program.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Program.cs",
+              "RelativeToolTip": "cafeservello\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:30:30.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "navbar.css",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\navbar.css",
-              "RelativeDocumentMoniker": "cafeservello\\wwwroot\\css\\Layout\\navbar.css",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\navbar.css",
-              "RelativeToolTip": "cafeservello\\wwwroot\\css\\Layout\\navbar.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T23:03:58.353Z",
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "cafeservello\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Data\\BancoContext.cs",
+              "RelativeToolTip": "cafeservello\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T00:23:51.975Z",
               "EditorCaption": ""
             }
           ]

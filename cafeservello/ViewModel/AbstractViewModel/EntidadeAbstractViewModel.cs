@@ -11,7 +11,7 @@ namespace cafeservello.ViewModel.AbstractViewModel
         public string Nome { get; set; } = string.Empty;
         public DateTime DataCadastro { get; set; } = DateTime.UtcNow;
         public DateTime DataUpdateCadastro { get; set; } = DateTime.UtcNow;
+        public bool IsActive { get; set; } = true;
 
-        
     }
 }
