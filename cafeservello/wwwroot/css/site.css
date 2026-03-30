@@ -27,7 +27,11 @@ body {
     font-style: normal;
 }
 
-main{
-    margin-left: 90px;
-    margin-top: 80px;
+main {
+    margin-left: 95px; /* Espaço da sidebar */
+    margin-top: 20px;
+    margin-right: 20px; /* Adicionei para desgrudar da direita */
+    /* Se sua navbar tiver uns 60px, o cálculo seria algo como: */
 }
+
+

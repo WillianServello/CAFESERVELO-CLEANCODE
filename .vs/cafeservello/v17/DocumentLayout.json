@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\views\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\views\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "cafeservello\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "cafeservello\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-30T21:56:53.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Pages\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafeservello\\Views\\Pages\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Pages\\Home\\Index.cshtml",
+              "RelativeToolTip": "cafeservello\\Views\\Pages\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T21:52:23.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

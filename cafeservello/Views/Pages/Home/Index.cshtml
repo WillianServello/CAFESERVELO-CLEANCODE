@@ -2,6 +2,38 @@
     ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Seja Bem-Vindo!</h1>
+<div>
+    <div class="conteiner">
+        <div class="divGrid">
+        </div>
+        <div class="divGrid">
+        </div>
+        <div class="divGrid">
+        </div>
+        <div class="divGrid">
+        </div>
+        <div class="divGrid">
+        </div>
+    </div>
 </div>
+
+<style>
+    .conteiner{
+        background: white;
+        min-height: calc(100vh - 120px); /* Ajuste o cálculo conforme necessário */
+        border-radius: 5px;
+        padding: 20px;
+        display: grid;
+        /* Cria 3 colunas de tamanhos iguais (1 fração cada) */
+        grid-template-columns: repeat(5, 1fr);
+        /* Espaçamento entre as colunas e linhas */
+        gap: 20px;
+    }
+
+    .divGrid{
+        height: 100px; /* Define uma altura fixa para os cards */
+        box-shadow: 1px 1px 10px 0px grey;
+        border-radius: 5px;
+        padding: 10px;
+    }
+</style>

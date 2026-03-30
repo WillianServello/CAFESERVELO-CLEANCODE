@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\cafeservello",
-    "\\cafeservello\\wwwroot",
-    "\\cafeservello\\wwwroot\\css",
-    "\\cafeservello\\wwwroot\\css\\Layout"
+    ""
   ],
-  "SelectedNode": "\\cafeservello\\wwwroot\\css\\Layout\\navbar.css",
+  "SelectedNode": "\\cafeservello.sln",
   "PreviewInSolutionExplorer": false
 }
