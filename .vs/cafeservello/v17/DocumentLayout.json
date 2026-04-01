@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\views\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\js\\layout\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\js\\layout\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\css\\layout\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\css\\layout\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\cafeservelo-cleancode\\cafeservello\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{43AD9309-116B-E3A6-9AE3-032F4EE7E2A0}|cafeservello\\controlecafeservello.csproj|solutionrelative:cafeservello\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
@@ -18,19 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "sidebar.css",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "RelativeDocumentMoniker": "cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "RelativeToolTip": "cafeservello\\wwwroot\\css\\Layout\\sidebar.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-01T00:55:26.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "cafeservello\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\css\\site.css",
               "RelativeToolTip": "cafeservello\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-30T21:56:53.743Z",
+              "WhenOpened": "2026-04-01T00:55:24.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeToolTip": "cafeservello\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T00:43:21.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sidebar.js",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "RelativeDocumentMoniker": "cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "RelativeToolTip": "cafeservello\\wwwroot\\js\\Layout\\sidebar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-01T00:43:15.544Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +92,7 @@
               "RelativeDocumentMoniker": "cafeservello\\Views\\Pages\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\CAFESERVELO-CLEANCODE\\cafeservello\\Views\\Pages\\Home\\Index.cshtml",
               "RelativeToolTip": "cafeservello\\Views\\Pages\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-30T21:52:23.855Z",
               "EditorCaption": ""

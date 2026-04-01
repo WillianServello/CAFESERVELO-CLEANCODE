@@ -4,15 +4,12 @@
 
 <div>
     <div class="conteiner">
-        <div class="divGrid">
-        </div>
-        <div class="divGrid">
-        </div>
-        <div class="divGrid">
-        </div>
-        <div class="divGrid">
-        </div>
-        <div class="divGrid">
+        <div class="divGrid" >
+            <div class="subamenu">
+                <button class="itens-menu" onclick="MenuAtivo(this)"  >
+                    <i class="fa-solid fa-align-justify iconeMenu"></i>
+                </button>
+            </div>
         </div>
     </div>
 </div>
@@ -22,18 +19,59 @@
         background: white;
         min-height: calc(100vh - 120px); /* Ajuste o cálculo conforme necessário */
         border-radius: 5px;
-        padding: 20px;
-        display: grid;
-        /* Cria 3 colunas de tamanhos iguais (1 fração cada) */
-        grid-template-columns: repeat(5, 1fr);
-        /* Espaçamento entre as colunas e linhas */
-        gap: 20px;
+        padding: 10px;
+        gap: 10px;
+        display: flex;
     }
 
-    .divGrid{
-        height: 100px; /* Define uma altura fixa para os cards */
-        box-shadow: 1px 1px 10px 0px grey;
-        border-radius: 5px;
-        padding: 10px;
+    .divGrid {
+
+    box-shadow: 1px 1px 10px 0px grey;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+/* Quando ativo, aumenta a largura */
+.subamenu.ativoMenu {
+    display: flex; 
+    width: 200px;             /* largura “aberta” */
+}
+
+
+.subamenu {
+    width: 50px;
+    padding: 0;
+    border-radius: 5px;
+    border: 1px solid grey;   /* borda arredondada no container */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    transition: width 0.3s ease;
+}
+
+    .itens-menu {
+    width: 100%;
+    padding: 10px;
+    border: none;              /* sem borda no botão */
+    background: transparent;   /* fundo transparente */
+    box-sizing: border-box;
+    display: block;
+    border-radius: 0;          /* sem borda arredondada */
+    cursor: pointer;
+}
+
+    }
+    .iconeMenu{
+        font-size: 14px;
+        color: black;
     }
 </style>
+
+ <script> 
+       function MenuAtivo(btn) {
+    const menu = btn.parentElement;  // o divGrid pai
+    menu.classList.toggle("ativoMenu");
+}
+ </script>

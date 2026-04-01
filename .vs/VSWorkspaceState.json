@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\cafeservello",
+    "\\cafeservello\\Views",
+    "\\cafeservello\\Views\\Pages",
+    "\\cafeservello\\Views\\Pages\\Home"
   ],
-  "SelectedNode": "\\cafeservello.sln",
+  "SelectedNode": "\\cafeservello\\Views\\Pages\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
